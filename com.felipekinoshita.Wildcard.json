@@ -1,7 +1,7 @@
 {
     "id" : "com.felipekinoshita.Wildcard",
     "runtime" : "org.gnome.Platform",
-    "runtime-version" : "44",
+    "runtime-version" : "45",
     "sdk" : "org.gnome.Sdk",
     "sdk-extensions" : [
         "org.freedesktop.Sdk.Extension.rust-stable"
@@ -52,8 +52,8 @@
             "sources" : [
                 {
                     "type" : "archive",
-                    "url" : "https://github.com/fkinoshita/Wildcard/releases/download/v0.2.0/wildcard-0.2.0.tar.xz",
-		    "sha256" : "c26cab661ac72c974bb92ff9bd1c77651783d6537bbe2d61ca2bf69891f5dc31"
+                    "url" : "https://github.com/fkinoshita/Wildcard/releases/download/v0.2.1/wildcard-0.2.1.tar.xz",
+		    "sha256" : "723703884f765c749c9e87bced6ae023456a2f15011cb2c15f677fb50b039e17"
                 }
             ]
         }
