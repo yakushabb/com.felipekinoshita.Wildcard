@@ -52,8 +52,8 @@
             "sources" : [
                 {
                     "type" : "archive",
-                    "url" : "https://gitlab.gnome.org/World/Wildcard/uploads/3757e224404a86fb9ad0244d1b07c896/wildcard-0.3.2.tar.xz",
-                    "sha256" : "0a280f99b98bfdfe0c386b7b841cc1443c4f4cb53a10f2e4c7a6af4a62bc1533"
+                    "url" : "https://gitlab.gnome.org/World/Wildcard/uploads/d3c6524de944bfe681def143aec6e786/wildcard-0.3.3.tar.xz",
+                    "sha256" : "06fee55cffc87fc21afa796adedd61d0e432c5bbd9247979fdcfc0b24197ca90"
                 }
             ]
         }
