@@ -54,6 +54,10 @@
                     "type" : "archive",
                     "url" : "https://gitlab.gnome.org/World/Wildcard/uploads/d3c6524de944bfe681def143aec6e786/wildcard-0.3.3.tar.xz",
                     "sha256" : "06fee55cffc87fc21afa796adedd61d0e432c5bbd9247979fdcfc0b24197ca90"
+                },
+                {
+                    "type" : "patch",
+                    "path" : "fix_appdata.patch"
                 }
             ]
         }
